@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[16],{351:function(e,n,o){"use strict";o.r(n);var t={components:{IphonePreview:o(312).IphonePreview}},r=o(17),c=Object(r.a)(t,(function(){var e=this.$createElement;return(this._self._c||e)("iphone-preview",{attrs:{"background-color":"#3eaf7c"}})}),[],!1,null,null,null);n.default=c.exports}}]);

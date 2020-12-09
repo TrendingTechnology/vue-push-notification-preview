@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[14],{349:function(e,t,n){"use strict";n.r(t);var i={components:{AndroidPreview:n(312).AndroidPreview}},r=n(17),s=Object(r.a)(i,(function(){var e=this.$createElement;return(this._self._c||e)("android-preview",{attrs:{"text-title":"Phasellus at accumsan velit"}})}),[],!1,null,null,null);t.default=s.exports}}]);

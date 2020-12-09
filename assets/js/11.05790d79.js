@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[11],{346:function(e,n,t){"use strict";t.r(n);var i={components:{AndroidPreview:t(312).AndroidPreview}},a=t(17),r=Object(a.a)(i,(function(){var e=this.$createElement;return(this._self._c||e)("android-preview",{attrs:{"text-application-name":"Dummy application name"}})}),[],!1,null,null,null);n.default=r.exports}}]);

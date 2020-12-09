@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[20],{355:function(e,n,t){"use strict";t.r(n);var o={components:{IphonePreview:t(312).IphonePreview}},i=t(17),p=Object(i.a)(o,(function(){var e=this.$createElement;return(this._self._c||e)("iphone-preview")}),[],!1,null,null,null);n.default=p.exports}}]);
